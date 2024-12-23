@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What is the minimum order value for free shipping?",
+        "context": "The minimum order value for free shipping is $50. Orders above $50 qualify for free standard shipping."
+    },
+    {
+        "question": "How do I check the status of my order?",
+        "context": "To check the status of your order, go to 'My Account' and click on 'Order History'. You'll see the current status of all your orders."
+    },
+    {
+        "question": "Can I cancel my order?",
+        "context": "You can cancel your order within 1 hour of placing it. After that, the order is processed and cannot be canceled."
+    },
+    {
+        "question": "Do you offer international shipping?",
+        "context": "Yes, we offer international shipping to select countries. Please check the shipping options during checkout to see if we ship to your location."
+    },
+    {
+        "question": "How do I apply a gift card?",
+        "context": "To apply a gift card, enter the gift card code in the 'Gift Card' section at checkout before completing your order."
+    },
+    {
+        "question": "What should I do if my item arrives damaged?",
+        "context": "If your item arrives damaged, please contact customer support within 7 days for a return or replacement."
+    },
+    {
+        "question": "How do I update my payment method?",
+        "context": "To update your payment method, go to 'Account Settings', select 'Payment Methods', and add or remove your payment details."
+    },
+    {
+        "question": "Do you offer price matching?",
+        "context": "Yes, we offer price matching. If you find a lower price for the same product on a competitor's website, please contact customer support with the details."
+    },
+    {
+        "question": "What is TDMS",
+        "context": "The Therapy Data Management System – TDMS – is seamlessly integrated in existing working processes and supports the user in his or her daily tasks, such as ultra-filtration management, prescription transfer to dialysis devices or treatment documentation. As a total integrated solution, the Therapy Data Management System is a seamless link between the world of dialysis and information technology and provides the right tool for every professional in a dialysis center."
+    },
+    {
+        "question": "What is Therapy Support Suite or TSS",
+        "context": "At a glance The Therapy Support Suite (TSS) is the central clinical management software within TDMS. As such it supports the user in carrying out, creating and managing patient prescriptions, medication plans, documentation of treatment data, and patient-related laboratory data. Furthermore, it provides enhanced reporting capabilities and allows the professional management of an association of dialysis centers."
+    },
+    {
+        "question": "What is Therapy Monitor (TMon)",
+        "context": "Monitoring software for the Therapy Data Management System.The Therapy Monitor is our solution for online documentation of various data collected before, during and after dialysis. The innovative bed-side monitoring is designed for advanced documentation on the 5008 CorDiax and 5008S CorDiax and thus directly at the bed-side of the patient"
+    },
+    {
+        "question": "What is communication Data Link (cDL)",
+        "context": "Interfacing TDMS with external hospital information systems (HIS)"
+    },
+    {
+        "question": "PatientOnLine (POL)",
+        "context": "PD management software designed for your teamIndividual prescription support,Treatment results & analysis,Patient follow up by in-depth overview of PD therapy"
+    },
+    {
+        "question": "About TMON",
+        "context": "The TMon Study was performed in a dialysis unit of a hospital in Saarbrücken, Germany. There, the dialysis workflow of the treatments of 12 patients was analyzed for two nurses before and after the implementation of the Therapy Monitor. The study followed two approaches in order to identify the benefits of TMon for its users and the patients. The measurement of all dialysis related process times allowed for a quantitative analysis, whereas interviews with doctors and nurses formed the qualitative part of the study,"
+    },
+    {
+        "question": "Study results on TMON",
+        "context": "With the introduction of Therapy Monitor a change of the dialysis workflow becomes necessary. This improvement leads to savings of nursing time spent during dialysis. Overall, the workflow optimization and speed up of the processes results in a saving of approximately 25 minutes or 40% per dialysis treatment. This finally leads to more patient comfort and less stress for nursing staff."
+    }
+]
